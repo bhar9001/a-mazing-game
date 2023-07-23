@@ -2,7 +2,7 @@
 
 
 
-![alt text](https://github.com/alikhutaba/Pathfinding-Viusualizer/blob/master/public/pathfinding.png?raw=true)
+![alt text](https://github.com/bhar9001/a-mazing-game/blob/main/images/Screenshot.JPG)
 
 
 
@@ -10,11 +10,9 @@
 
 Pathfinding Visualizer is an application that visualizes Pathfinding algorithms in action.
 
-Live Demo - https://alikhutaba.github.io/Pathfinding-Viusualizer/
+Live Demo - https://a-mazing-gamee.netlify.app
 
 Implemented Algorithm:
-
-A* Search.
 
 Dijkstra’s Algorithm.
 
